@@ -22,7 +22,7 @@ const config: runtime.GetPrismaClientConfig = {
       "value": "prisma-client"
     },
     "output": {
-      "value": "/home/lucio-arezzo/Documentos/www/fsw-aparatus/app/generated/prisma",
+      "value": "C:\\Users\\lucio\\Documents\\www\\fsw-aparatus\\app\\generated\\prisma",
       "fromEnvVar": null
     },
     "config": {
@@ -31,12 +31,12 @@ const config: runtime.GetPrismaClientConfig = {
     "binaryTargets": [
       {
         "fromEnvVar": null,
-        "value": "debian-openssl-3.0.x",
+        "value": "windows",
         "native": true
       }
     ],
     "previewFeatures": [],
-    "sourceFilePath": "/home/lucio-arezzo/Documentos/www/fsw-aparatus/prisma/schema.prisma",
+    "sourceFilePath": "C:\\Users\\lucio\\Documents\\www\\fsw-aparatus\\prisma\\schema.prisma",
     "isCustomOutput": true
   },
   "relativePath": "../../../prisma",
